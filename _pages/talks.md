@@ -9,13 +9,13 @@ Microsoft Machine Learning, AI, and Data Sciences Conference (MLADS), Nov 15, 20
 Topic: Language Models with Image Descriptors are Strong Few-Shot Video-Language Learners <br />
 
 AI-at-SLAC Seminar, Stanford SLAC, Jun 25, 2021 <br />
-Topic: <a href="https://ml.slac.stanford.edu/ai-seminar">Deep Learning For Anomaly Detection </a> <br />
+Topic: [Deep Learning For Anomaly Detection](https://ml.slac.stanford.edu/ai-seminar)<br />
 
 Thermal & Fluid Sciences Industrial Affiliates and Sponsors Conference, 2019 <br />
-Topic: <a href="https://web.stanford.edu/group/tfsa/cgi-bin/tfsa-wp/conference/">Anomaly Detection Using Generative Adversarial Networks” </a> <br />
+Topic: [Anomaly Detection Using Generative Adversarial Networks](https://web.stanford.edu/group/tfsa/cgi-bin/tfsa-wp/conference/) <br />
 
 Thermal & Fluid Sciences Industrial Affiliates and Sponsors Conference, 2018 <br />
-Topic: <a href="https://web.stanford.edu/group/tfsa/cgi-bin/tfsa-wp/conference/">Using Deep Learning for the solution of PDEs </a> <br />
+Topic: [Using Deep Learning for the solution of PDEs](https://web.stanford.edu/group/tfsa/cgi-bin/tfsa-wp/conference/) <br />
 
 Bay Area Scientific Computing Day, 2018 <br />
-Topic: <a href="https://sites.google.com/view/bascd2018/speakers">Using Deep Learning for the solution of PDEs” </a> <br />
+Topic: [Using Deep Learning for the solution of PDEs](https://sites.google.com/view/bascd2018/speakers) <br />

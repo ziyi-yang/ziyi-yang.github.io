@@ -31,7 +31,9 @@ Yusen Zhang, Yang Liu, Ziyi Yang, Yuwei Fang, Yulong Chen, Dragomir Radev, Cheng
 
 Year 2021
 
-* [Memory Augmented Generative Adversarial Networks for Anomaly Detection](https://ieeexplore.ieee.org/document/9664442), Ziyi Yang, Teng Zhang, Iman Soltani Bozchalooi, Eric Darve, IEEE Transactions on Neural Networks and Learning Systems (Impact Factor: 8.793)
+* [Memory Augmented Generative Adversarial Networks for Anomaly Detection](https://ieeexplore.ieee.org/document/9664442) <br />
+Ziyi Yang, Teng Zhang, Iman Soltani Bozchalooi, Eric Darve <br />
+IEEE Transactions on Neural Networks and Learning Systems (Impact Factor: 8.793)
 
 * [A Simple and Effective Method To Eliminate the Self Language Bias in Multilingual Representations](https://arxiv.org/abs/2109.04727)
 Ziyi Yang, Yinfei Yang, Daniel Cer, Eric Darve

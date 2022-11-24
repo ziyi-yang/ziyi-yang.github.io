@@ -18,4 +18,4 @@ Education
 News
 ======
 * 2022.11 i-Code [paper](https://arxiv.org/abs/2205.01818) accepted to AAAI 2023.
-* 2022.11 Achieved 1st place at [Document Understand Benchmark](https://duebenchmark.com/leaderboard).
+* 2022.11 Achieved 1st place on [Document Understand Benchmark](https://duebenchmark.com/leaderboard).

@@ -116,6 +116,7 @@ exclude:
   - package.json
   - tmp
   - vendor
+  - cv.md
 keep_files:
   - .git
   - .svn

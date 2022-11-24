@@ -89,7 +89,7 @@ Year 2019
 
 * [Parameter-free Sentence Embedding via Orthogonal Basis](https://arxiv.org/pdf/1810.00438.pdf) <br />
 **Ziyi Yang**, Chenguang Zhu, Weizhu Chen <br />
-**Oral Presentation**, Empirical Methods in Natural Language Processing (**EMNLP**), Hong Kong, China, 2019 <br />
+**Oral Presentation**, 2019 Conference on Empirical Methods in Natural Language Processing and the 9th International Joint Conference on Natural Language Processing (**EMNLP-IJCNLP**), Hong Kong, China, 2019 <br />
 [Code](https://github.com/ziyi-yang/GEM)
 
 * [Embedding Imputation with Grounded Language Information](https://aclanthology.org/P19-1326/) <br />

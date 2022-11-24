@@ -90,8 +90,7 @@ author:
 # Reading Files
 include:
   - .htaccess
-  - _pages/publications.md
-  - _pages/experience.md
+  - _pages
   - files
 exclude:
   - "*.sublime-project"

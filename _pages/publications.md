@@ -10,7 +10,8 @@ You can also find my publications on my [Google Scholar](https://scholar.google.
 Year 2023
 
 * [i-Code: An Integrative and Composable Multimodal Learning Framework](https://arxiv.org/abs/2205.01818)<br />
-**Ziyi Yang**, Yuwei Fang, Chenguang Zhu, Reid Pryzant, Dongdong Chen, Yu Shi, Yichong Xu, Yao Qian, Mei Gao, Yi-Ling Chen, Liyang Lu, Yujia Xie, Robert Gmyr, Noel Codella, Naoyuki Kanda, Bin Xiao, Lu Yuan, Takuya Yoshioka, Michael Zeng, Xuedong Huang<br />
+**Ziyi Yang**\*, Yuwei Fang\*, Chenguang Zhu, Reid Pryzant, Dongdong Chen, Yu Shi, Yichong Xu, Yao Qian, Mei Gao, Yi-Ling Chen, Liyang Lu, Yujia Xie, Robert Gmyr, Noel Codella, Naoyuki Kanda, Bin Xiao, Lu Yuan, Takuya Yoshioka, Michael Zeng, Xuedong Huang<br />
+(\*: Equal contribution)
 The 37th AAAI Conference on Artificial Intelligence (**AAAI**), Washington DC, USA, 2023
 
 Year 2022
@@ -66,7 +67,7 @@ International Conference on Learning Representations (**ICLR**), 2021
 Year 2020
 
 * [Multi-Constitutive Neural Network for Large Deformation Poromechanics Problem](https://arxiv.org/pdf/2010.15549.pdf) <br />
-Qi Zhang, Yilin Chen, **Ziyi Yang**\*, Eric Darve <br />
+Qi Zhang\*, Yilin Chen\*, **Ziyi Yang**\*, Eric Darve <br />
 (\*: Equal contribution)
 Neural Information Processing Systems, Machine Learning and the Physical Sciences (**ML4PS**), 2020
 

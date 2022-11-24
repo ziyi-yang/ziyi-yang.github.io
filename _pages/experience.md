@@ -38,4 +38,4 @@ Work experience
 
 Service and leadership
 ======
-Reviewed for ACL, EMNLP, NAACL, EMNLP, NeurIPS, CVPR, ECCV, ICCV, IEEE Transactions on Pattern Analysis and Machine Intelligence (TMAPI), IEEE Transactions on Neural Networks and Learning Systems (NNLS)
+Reviewed for ACL, EMNLP, NAACL, NeurIPS, CVPR, ICCV, ECCV, IEEE Transactions on Pattern Analysis and Machine Intelligence (TMAPI), IEEE Transactions on Neural Networks and Learning Systems (NNLS)

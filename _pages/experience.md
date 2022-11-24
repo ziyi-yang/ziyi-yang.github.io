@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Experience"
+title:
 permalink: /experience/
 author_profile: true
 redirect_from:
@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Mechanical Engineering (minor in Computer Science), Stanford University, 2021
+* Ph.D in Mechanical Engineering (minor in Computer Science), Stanford University, 2021. Advisor: Prof. Eric Darve
 * M.S. in Elecrical Engineering, Stanford University, 2018
 * B.S. in Physics (honors), Nanjing University, 2016
 

@@ -11,7 +11,7 @@ Year 2023
 
 * [i-Code: An Integrative and Composable Multimodal Learning Framework](https://arxiv.org/abs/2205.01818)<br />
 **Ziyi Yang**\*, Yuwei Fang\*, Chenguang Zhu, Reid Pryzant, Dongdong Chen, Yu Shi, Yichong Xu, Yao Qian, Mei Gao, Yi-Ling Chen, Liyang Lu, Yujia Xie, Robert Gmyr, Noel Codella, Naoyuki Kanda, Bin Xiao, Lu Yuan, Takuya Yoshioka, Michael Zeng, Xuedong Huang<br />
-(\*: Equal contribution)
+(\*: Equal contribution)<br />
 The 37th AAAI Conference on Artificial Intelligence (**AAAI**), Washington DC, USA, 2023
 
 Year 2022

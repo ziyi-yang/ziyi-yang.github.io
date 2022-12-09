@@ -15,6 +15,9 @@ Year 2023
 The 37th AAAI Conference on Artificial Intelligence (**AAAI**), Washington DC, USA, 2023
 
 Year 2022
+* [Unifying Vision, Text, and Layout for Universal Document Processing](https://arxiv.org/abs/2212.02623)<br />
+Zineng Tang, **Ziyi Yang**\*, Guoxin Wang, Yuwei Fang, Yang Liu, Chenguang Zhu, Michael Zeng, Cha Zhang, Mohit Bansal\*<br />
+(\*: Corresponding authors)
 
 * [Empowering Language Models with Knowledge Graph Reasoning for Open-Domain Question Answering](https://arxiv.org/abs/2211.08380)<br />
 Ziniu Hu, Yichong Xu, Wenhao Yu, Shuohang Wang, **Ziyi Yang**, Chenguang Zhu, Kai-Wei Chang and Yizhou Sun <br />

@@ -75,7 +75,7 @@ Year 2020
 
 * [Multi-Constitutive Neural Network for Large Deformation Poromechanics Problem](https://arxiv.org/pdf/2010.15549.pdf) <br />
 Qi Zhang\*, Yilin Chen\*, **Ziyi Yang**\*, Eric Darve <br />
-(\*: Equal contribution)
+(\*: Equal contribution) <br />
 Neural Information Processing Systems, Machine Learning and the Physical Sciences (**ML4PS**), 2020
 
 * [TED: A Pretrained Unsupervised Summarization Model with Theme Modeling and Denoising](https://arxiv.org/pdf/2001.00725.pdf) <br />

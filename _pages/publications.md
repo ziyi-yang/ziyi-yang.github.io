@@ -8,6 +8,10 @@ author_profile: true
 You can also find my publications on my [Google Scholar](https://scholar.google.com/citations?user=JkyLIM0AAAAJ&hl=en) profile.
 
 Year 2023
+* Real-Time Audio-Visual End-To-End Speech Enhancement<br />
+Zirun Zhu, Hemin Yang, Min Tang, **Ziyi Yang**, Sefik Eskimez, Huaming Wang<br />
+2023 IEEE International Conference on Acoustics, Speech and Signal Processing (**ICASSP**)<br />
+(Fun Fact: Zirun and I were deskmate in high school.)
 
 * [i-Code: An Integrative and Composable Multimodal Learning Framework](https://arxiv.org/abs/2205.01818)<br />
 **Ziyi Yang**\*, Yuwei Fang\*, Chenguang Zhu, Reid Pryzant, Dongdong Chen, Yu Shi, Yichong Xu, Yao Qian, Mei Gao, Yi-Ling Chen, Liyang Lu, Yujia Xie, Robert Gmyr, Noel Codella, Naoyuki Kanda, Bin Xiao, Lu Yuan, Takuya Yoshioka, Michael Zeng, Xuedong Huang<br />

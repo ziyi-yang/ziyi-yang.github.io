@@ -15,7 +15,7 @@ Education
 * M.S. in Elecrical Engineering, Stanford University, 2018
 * B.S. in Physics (honors), Nanjing University, 2016
 
-Intern Mentoring
+Mentored Interns/Students
 ======
 * [Zineng Tang](https://zinengtang.github.io/), 2022.6-2022.11. Model ranks 1st place on [Document Understand Benchmark](https://duebenchmark.com/leaderboard).
 

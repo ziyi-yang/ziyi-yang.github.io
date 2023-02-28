@@ -11,6 +11,7 @@ Ziyi Yang is a Senior Researcher at [Microsoft Azure Cognitive Services Research
 
 News
 ======
+* 2023.02: One paper on with my summer intern Zineng Tang accepted to CVPR 2023.
 * 2023.01: One paper accepted to ICASSP 2023.
 * 2022.11: i-Code [paper](https://arxiv.org/abs/2205.01818) accepted to AAAI 2023.
 * 2022.11: Achieve 1st place on [Document Understand Benchmark](https://duebenchmark.com/leaderboard).

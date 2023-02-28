@@ -8,6 +8,12 @@ author_profile: true
 You can also find my publications on my [Google Scholar](https://scholar.google.com/citations?user=JkyLIM0AAAAJ&hl=en) profile.
 
 Year 2023
+* [Unifying Vision, Text, and Layout for Universal Document Processing](https://arxiv.org/abs/2212.02623)<br />
+Zineng Tang, **Ziyi Yang**\*, Guoxin Wang, Yuwei Fang, Yang Liu, Chenguang Zhu, Michael Zeng, Cha Zhang, Mohit Bansal\*<br />
+Conference on Computer Vision and Pattern Recognition (CVPR), Vancouver, Canada, 2023.
+(\*: Corresponding authors)
+[Code & Model](https://github.com/microsoft/i-code)
+
 * Real-Time Audio-Visual End-To-End Speech Enhancement<br />
 Zirun Zhu, Hemin Yang, Min Tang, **Ziyi Yang**, Sefik Eskimez, Huaming Wang<br />
 2023 IEEE International Conference on Acoustics, Speech and Signal Processing (**ICASSP**)<br />
@@ -19,10 +25,6 @@ Zirun Zhu, Hemin Yang, Min Tang, **Ziyi Yang**, Sefik Eskimez, Huaming Wang<br /
 The 37th AAAI Conference on Artificial Intelligence (**AAAI**), Washington DC, USA, 2023
 
 Year 2022
-* [Unifying Vision, Text, and Layout for Universal Document Processing](https://arxiv.org/abs/2212.02623)<br />
-Zineng Tang, **Ziyi Yang**\*, Guoxin Wang, Yuwei Fang, Yang Liu, Chenguang Zhu, Michael Zeng, Cha Zhang, Mohit Bansal\*<br />
-(\*: Corresponding authors)
-
 * [Empowering Language Models with Knowledge Graph Reasoning for Open-Domain Question Answering](https://arxiv.org/abs/2211.08380)<br />
 Ziniu Hu, Yichong Xu, Wenhao Yu, Shuohang Wang, **Ziyi Yang**, Chenguang Zhu, Kai-Wei Chang and Yizhou Sun <br />
 Empirical Methods in Natural Language Processing (**EMNLP**), Abu Dhabi, the United Arab Emirates, 2022

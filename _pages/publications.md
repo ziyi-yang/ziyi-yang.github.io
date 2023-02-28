@@ -11,7 +11,7 @@ Year 2023
 * [Unifying Vision, Text, and Layout for Universal Document Processing](https://arxiv.org/abs/2212.02623)<br />
 Zineng Tang, **Ziyi Yang**\*, Guoxin Wang, Yuwei Fang, Yang Liu, Chenguang Zhu, Michael Zeng, Cha Zhang, Mohit Bansal\*<br />
 Conference on Computer Vision and Pattern Recognition (CVPR), Vancouver, Canada, 2023.<br />
-(\*: Corresponding authors)
+(\*: Corresponding authors)<br />
 [Code & Model](https://github.com/microsoft/i-code)
 
 * [MACSum: Controllable Summarization with Mixed Attributes](https://arxiv.org/abs/2211.05041) <br />

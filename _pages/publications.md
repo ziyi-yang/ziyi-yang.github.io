@@ -14,6 +14,10 @@ Conference on Computer Vision and Pattern Recognition (CVPR), Vancouver, Canada,
 (\*: Corresponding authors)
 [Code & Model](https://github.com/microsoft/i-code)
 
+* [MACSum: Controllable Summarization with Mixed Attributes](https://arxiv.org/abs/2211.05041) <br />
+Yusen Zhang, Yang Liu, **Ziyi Yang**, Yuwei Fang, Yulong Chen, Dragomir Radev, Chenguang Zhu, Michael Zeng, Rui Zhang
+Transactions of the Association for Computational Linguistics (TACL), 2023.
+
 * Real-Time Audio-Visual End-To-End Speech Enhancement<br />
 Zirun Zhu, Hemin Yang, Min Tang, **Ziyi Yang**, Sefik Eskimez, Huaming Wang<br />
 2023 IEEE International Conference on Acoustics, Speech and Signal Processing (**ICASSP**)<br />
@@ -39,9 +43,6 @@ Conference on Neural Information Processing Systems (**NeurIPS**), New Orleans, 
 
 * [UniSumm: Unified Few-shot Summarization with Multi-Task Pre-Training and Prefix-Tuning](https://arxiv.org/abs/2211.09783) <br />
 Yulong Chen, Yang Liu, Ruochen Xu, **Ziyi Yang**, Chenguang Zhu, Michael Zeng, Yue Zhang
-
-* [MACSum: Controllable Summarization with Mixed Attributes](https://arxiv.org/abs/2211.05041) <br />
-Yusen Zhang, Yang Liu, **Ziyi Yang**, Yuwei Fang, Yulong Chen, Dragomir Radev, Chenguang Zhu, Michael Zeng, Rui Zhang
 
 * [Tail Batch Sampling: Approximating Global Contrastive Losses as Optimization over Batch Assignments](https://arxiv.org/abs/2210.12874) <br />
 Vin Sachidananda, **Ziyi Yang**, Chenguang Zhu

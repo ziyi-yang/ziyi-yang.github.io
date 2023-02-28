@@ -10,12 +10,12 @@ You can also find my publications on my [Google Scholar](https://scholar.google.
 Year 2023
 * [Unifying Vision, Text, and Layout for Universal Document Processing](https://arxiv.org/abs/2212.02623)<br />
 Zineng Tang, **Ziyi Yang**\*, Guoxin Wang, Yuwei Fang, Yang Liu, Chenguang Zhu, Michael Zeng, Cha Zhang, Mohit Bansal\*<br />
-Conference on Computer Vision and Pattern Recognition (CVPR), Vancouver, Canada, 2023.
+Conference on Computer Vision and Pattern Recognition (CVPR), Vancouver, Canada, 2023.<br />
 (\*: Corresponding authors)
 [Code & Model](https://github.com/microsoft/i-code)
 
 * [MACSum: Controllable Summarization with Mixed Attributes](https://arxiv.org/abs/2211.05041) <br />
-Yusen Zhang, Yang Liu, **Ziyi Yang**, Yuwei Fang, Yulong Chen, Dragomir Radev, Chenguang Zhu, Michael Zeng, Rui Zhang
+Yusen Zhang, Yang Liu, **Ziyi Yang**, Yuwei Fang, Yulong Chen, Dragomir Radev, Chenguang Zhu, Michael Zeng, Rui Zhang<br />
 Transactions of the Association for Computational Linguistics (TACL), 2023.
 
 * Real-Time Audio-Visual End-To-End Speech Enhancement<br />
@@ -31,7 +31,8 @@ The 37th AAAI Conference on Artificial Intelligence (**AAAI**), Washington DC, U
 Year 2022
 * [Empowering Language Models with Knowledge Graph Reasoning for Open-Domain Question Answering](https://arxiv.org/abs/2211.08380)<br />
 Ziniu Hu, Yichong Xu, Wenhao Yu, Shuohang Wang, **Ziyi Yang**, Chenguang Zhu, Kai-Wei Chang and Yizhou Sun <br />
-Empirical Methods in Natural Language Processing (**EMNLP**), Abu Dhabi, the United Arab Emirates, 2022
+Empirical Methods in Natural Language Processing (**EMNLP**), Abu Dhabi, the United Arab Emirates, 2022<br />
+**Best Paper Award at SoCalNLP 2022 Symposium**
 
 * [Automatic Rule Induction for Efficient Semi-Supervised Learning](https://arxiv.org/abs/2205.09067) <br />
 Reid Pryzant, **Ziyi Yang**, Yichong Xu, Chenguang Zhu, Michael Zeng <br />

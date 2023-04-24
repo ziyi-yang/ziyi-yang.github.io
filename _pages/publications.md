@@ -5,12 +5,16 @@ permalink: /publications/
 author_profile: true
 ---
 
-You can also find my publications on my [Google Scholar](https://scholar.google.com/citations?user=JkyLIM0AAAAJ&hl=en) profile.
+You can also find my publications on [Google Scholar](https://scholar.google.com/citations?user=JkyLIM0AAAAJ&hl=en).
 
 Year 2023
+* [Global Contrastive Batch Sampling via Optimization on Sample Permutations](https://arxiv.org/abs/2210.12874)<br />
+Vin Sachidananda, **Ziyi Yang**, chenguang Zhu<br />
+The Fortieth International Conference on Machine Learning (ICML), Hawaii, USA, 2023.<br />
+
 * [Unifying Vision, Text, and Layout for Universal Document Processing](https://arxiv.org/abs/2212.02623)<br />
 Zineng Tang, **Ziyi Yang**\*, Guoxin Wang, Yuwei Fang, Yang Liu, Chenguang Zhu, Michael Zeng, Cha Zhang, Mohit Bansal\*<br />
-Conference on Computer Vision and Pattern Recognition (CVPR), Vancouver, Canada, 2023.<br />
+**Highlight**, Conference on Computer Vision and Pattern Recognition (CVPR), Vancouver, Canada, 2023.<br />
 (\*: Corresponding authors)<br />
 [Code & Model](https://github.com/microsoft/i-code)
 

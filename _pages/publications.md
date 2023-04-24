@@ -10,17 +10,17 @@ You can also find my publications on [Google Scholar](https://scholar.google.com
 Year 2023
 * [Global Contrastive Batch Sampling via Optimization on Sample Permutations](https://arxiv.org/abs/2210.12874)<br />
 Vin Sachidananda, **Ziyi Yang**, chenguang Zhu<br />
-The Fortieth International Conference on Machine Learning (ICML), Hawaii, USA, 2023.<br />
+The Fortieth International Conference on Machine Learning (**ICML**), Hawaii, USA, 2023.<br />
 
 * [Unifying Vision, Text, and Layout for Universal Document Processing](https://arxiv.org/abs/2212.02623)<br />
 Zineng Tang, **Ziyi Yang**\*, Guoxin Wang, Yuwei Fang, Yang Liu, Chenguang Zhu, Michael Zeng, Cha Zhang, Mohit Bansal\*<br />
-**Highlight**, Conference on Computer Vision and Pattern Recognition (CVPR), Vancouver, Canada, 2023.<br />
+**Highlight**, Conference on Computer Vision and Pattern Recognition (**CVPR**), Vancouver, Canada, 2023.<br />
 (\*: Corresponding authors)<br />
 [Code & Model](https://github.com/microsoft/i-code)
 
 * [MACSum: Controllable Summarization with Mixed Attributes](https://arxiv.org/abs/2211.05041) <br />
 Yusen Zhang, Yang Liu, **Ziyi Yang**, Yuwei Fang, Yulong Chen, Dragomir Radev, Chenguang Zhu, Michael Zeng, Rui Zhang<br />
-Transactions of the Association for Computational Linguistics (TACL), 2023.
+Transactions of the Association for Computational Linguistics (**TACL**), 2023.
 
 * [Real-Time Audio-Visual End-To-End Speech Enhancement](https://arxiv.org/abs/2303.07005) <br />
 Zirun Zhu, Hemin Yang, Min Tang, **Ziyi Yang**, Sefik Eskimez, Huaming Wang<br />

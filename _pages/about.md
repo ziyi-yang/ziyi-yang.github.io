@@ -11,7 +11,8 @@ Ziyi Yang is a Senior Researcher at [Microsoft Azure Cognitive Services Research
 
 News
 ======
-* 2023 April: One [paper](https://arxiv.org/abs/2210.12874) on contrastive learning accepted to ICML 2023.
+* 2023 May: two papers accepted to ACL.
+* 2023 April: One [paper](https://arxiv.org/abs/2210.12874) on contrastive learning accepted to ICML.
 * 2023 Feb: [Universal Document Processing (UDOP)](https://arxiv.org/abs/2212.02623) with my intern Zineng Tang accepted to CVPR 2023 as **highlight**.
 * 2023 Feb: One paper accepted to TACL.
 * 2023 Jan: One paper accepted to ICASSP 2023.

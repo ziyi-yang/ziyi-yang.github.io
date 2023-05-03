@@ -8,6 +8,14 @@ author_profile: true
 You can also find my publications on [Google Scholar](https://scholar.google.com/citations?user=JkyLIM0AAAAJ&hl=en).
 
 Year 2023
+* [Adaptive Pre-training of Language Models for Better Logical Reasoning](https://openreview.net/forum?id=SWlp1gdlmd)<br />
+Soumya Sanyal, Yichong Xu, Shuohang Wang, **Ziyi Yang**, Reid Pryzant, Wenhao Yu, Chenguang Zhu, Xiang Ren <br />
+The 61st Annual Meeting of the Association for Computational Linguistics (**ACL**), Toronto, Canada, 2023.<br />
+
+* [UniSumm: Unified Few-shot Summarization with Multi-Task Pre-Training and Prefix-Tuning](https://arxiv.org/abs/2211.09783) <br />
+Yulong Chen, Yang Liu, Ruochen Xu, **Ziyi Yang**, Chenguang Zhu, Michael Zeng, Yue Zhang <br />
+The 61st Annual Meeting of the Association for Computational Linguistics (**ACL**), Toronto, Canada, 2023.<br />
+
 * [Global Contrastive Batch Sampling via Optimization on Sample Permutations](https://arxiv.org/abs/2210.12874)<br />
 Vin Sachidananda, **Ziyi Yang**, chenguang Zhu<br />
 The Fortieth International Conference on Machine Learning (**ICML**), Hawaii, USA, 2023.<br />
@@ -45,16 +53,6 @@ Findings of Empirical Methods in Natural Language Processing (**EMNLP**), Abu Dh
 * [Language Models with Image Descriptors are Strong Few-Shot Video-Language Learners](https://arxiv.org/abs/2205.10747) <br />
 Zhenhailong Wang, Manling Li, Ruochen Xu, Luowei Zhou, Jie Lei, Xudong Lin, Shuohang Wang, **Ziyi Yang**, Chenguang Zhu, Derek Hoiem, Shih-Fu Chang, Mohit Bansal, Heng Ji <br />
 Conference on Neural Information Processing Systems (**NeurIPS**), New Orleans, Louisiana, USA, 2022
-
-* [UniSumm: Unified Few-shot Summarization with Multi-Task Pre-Training and Prefix-Tuning](https://arxiv.org/abs/2211.09783) <br />
-Yulong Chen, Yang Liu, Ruochen Xu, **Ziyi Yang**, Chenguang Zhu, Michael Zeng, Yue Zhang
-
-* [Tail Batch Sampling: Approximating Global Contrastive Losses as Optimization over Batch Assignments](https://arxiv.org/abs/2210.12874) <br />
-Vin Sachidananda, **Ziyi Yang**, Chenguang Zhu
-
-* [Adaptive Pre-training of Language Models for Better Logical Reasoning](https://openreview.net/forum?id=SWlp1gdlmd)<br />
-Soumya Sanyal, Yichong Xu, Shuohang Wang, **Ziyi Yang**, Reid Pryzant, Wenhao Yu, Chenguang Zhu, Xiang Ren <br />
-NeurIPS 2022 Workshop on Distribution Shifts: Connecting Methods and Applications
 
 Year 2021
 

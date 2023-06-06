@@ -8,6 +8,19 @@ author_profile: true
 You can also find my publications on [Google Scholar](https://scholar.google.com/citations?user=JkyLIM0AAAAJ&hl=en).
 
 Year 2023
+* [Any-to-Any Generation via Composable Diffusion](https://arxiv.org/abs/2305.11846) <br />
+Zineng Tang, **Ziyi Yang**\*, Chenguang Zhu, Michael Zeng, Mohit Bansal\* <br />
+(\*: Corresponding authors)<br />
+[Project Page](https://codi-gen.github.io/)
+
+* [i-Code V2: An Autoregressive Generation Framework over Vision, Language, and Speech Data](https://arxiv.org/abs/2305.12311) <br />
+**Ziyi Yang**, Mahmoud Khademi, Yichong Xu, Reid Pryzant, Yuwei Fang, Chenguang Zhu, Dongdong Chen, Yao Qian, Mei Gao, Yi-Ling Chen, Robert Gmyr, Naoyuki Kanda, Noel Codella, Bin Xiao, Yu Shi, Lu Yuan, Takuya Yoshioka, Michael Zeng, Xuedong Huang <br />
+[Project Page](https://github.com/microsoft/i-Code)
+
+* [i-Code Studio: A Configurable and Composable Framework for Integrative AI](https://arxiv.org/abs/2305.13738) <br />
+Yuwei Fang, Mahmoud Khademi, Chenguang Zhu, **Ziyi Yang**, Reid Pryzant, Yichong Xu, Yao Qian, Takuya Yoshioka, Lu Yuan, Michael Zeng, Xuedong Huang <br />
+[Project Page](https://github.com/microsoft/i-Code)
+
 * [Adaptive Pre-training of Language Models for Better Logical Reasoning](https://openreview.net/forum?id=SWlp1gdlmd)<br />
 Soumya Sanyal, Yichong Xu, Shuohang Wang, **Ziyi Yang**, Reid Pryzant, Wenhao Yu, Chenguang Zhu, Xiang Ren <br />
 The 61st Annual Meeting of the Association for Computational Linguistics (**ACL**), Toronto, Canada, 2023.<br />
@@ -17,7 +30,7 @@ Yulong Chen, Yang Liu, Ruochen Xu, **Ziyi Yang**, Chenguang Zhu, Michael Zeng, Y
 The 61st Annual Meeting of the Association for Computational Linguistics (**ACL**), Toronto, Canada, 2023.<br />
 
 * [Global Contrastive Batch Sampling via Optimization on Sample Permutations](https://arxiv.org/abs/2210.12874)<br />
-Vin Sachidananda, **Ziyi Yang**, chenguang Zhu<br />
+Vin Sachidananda, **Ziyi Yang**, Chenguang Zhu<br />
 The Fortieth International Conference on Machine Learning (**ICML**), Hawaii, USA, 2023.<br />
 
 * [Unifying Vision, Text, and Layout for Universal Document Processing](https://arxiv.org/abs/2212.02623)<br />
@@ -25,6 +38,10 @@ Zineng Tang, **Ziyi Yang**\*, Guoxin Wang, Yuwei Fang, Yang Liu, Chenguang Zhu, 
 **Highlight**, Conference on Computer Vision and Pattern Recognition (**CVPR**), Vancouver, Canada, 2023.<br />
 (\*: Corresponding authors)<br />
 [Code & Model](https://github.com/microsoft/i-code)
+
+* [Anomaly Detection with Domain Adaptation](https://openaccess.thecvf.com/content/CVPR2023W/VAND/html/Yang_Anomaly_Detection_With_Domain_Adaptation_CVPRW_2023_paper.html) <br />
+**Ziyi Yang**, Iman Soltani Bozchalooi, Eric Darve <br />
+Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) Workshops, Vancouver, Canada, 2023.<br />
 
 * [MACSum: Controllable Summarization with Mixed Attributes](https://arxiv.org/abs/2211.05041) <br />
 Yusen Zhang, Yang Liu, **Ziyi Yang**, Yuwei Fang, Yulong Chen, Dragomir Radev, Chenguang Zhu, Michael Zeng, Rui Zhang<br />
@@ -37,7 +54,7 @@ Zirun Zhu, Hemin Yang, Min Tang, **Ziyi Yang**, Sefik Eskimez, Huaming Wang<br /
 
 * [i-Code: An Integrative and Composable Multimodal Learning Framework](https://arxiv.org/abs/2205.01818)<br />
 **Ziyi Yang**\*, Yuwei Fang\*, Chenguang Zhu, Reid Pryzant, Dongdong Chen, Yu Shi, Yichong Xu, Yao Qian, Mei Gao, Yi-Ling Chen, Liyang Lu, Yujia Xie, Robert Gmyr, Noel Codella, Naoyuki Kanda, Bin Xiao, Lu Yuan, Takuya Yoshioka, Michael Zeng, Xuedong Huang<br />
-(\*: Equal contribution)<br />
+(\*: Co-first authors)<br />
 The 37th AAAI Conference on Artificial Intelligence (**AAAI**), Washington DC, USA, 2023
 
 Year 2022
@@ -89,9 +106,6 @@ Neural Information Processing Systems, Machine Learning and the Physical Science
 (\*: Equal contribution) <br />
 Findings of Empirical Methods in Natural Language Processing (**EMNLP**), Online, 2020 <br />
 [Demo](https://msndata.azurewebsites.net/views/summary/index.html)
-
-* [Anomaly Detection with Domain Adaptation](https://arxiv.org/pdf/2006.03689.pdf) <br />
-**Ziyi Yang**, Iman Soltani Bozchalooi, Eric Darve
 
 * [Regularized Cycle Consistent Generative Adversarial Network for Anomaly Detection](https://arxiv.org/pdf/2001.06591.pdf) <br />
 **Ziyi Yang**, Iman Soltani Bozchalooi, Eric Darve <br />

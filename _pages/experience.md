@@ -21,7 +21,8 @@ Mentored Interns/Students
 
 Work experience
 ======
-* 2021.7 - Now: Senior Researcher
+* 2023.8 - Now: Principal Researcher
+* 2021.7 - 2023.8: Senior Researcher
   * Microsoft Azure Cognitive Services Research
 
 * 2020.6 - 2020.12: Research Intern

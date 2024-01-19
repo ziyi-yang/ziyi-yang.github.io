@@ -8,8 +8,15 @@ author_profile: true
 You can also find my publications on [Google Scholar](https://scholar.google.com/citations?user=JkyLIM0AAAAJ&hl=en).
 
 Year 2023
-* [Any-to-Any Generation via Composable Diffusion](https://arxiv.org/abs/2305.11846) <br />
+* [CoDi-2: In-Context, Interleaved, and Interactive
+Any-to-Any Generation](https://arxiv.org/abs/2311.18775) <br />
+Zineng Tang, **Ziyi Yang**\*, Mahmoud Khademi, Yang Liu, Chenguang Zhu, Mohit Bansal\* <br />
+(\*: Corresponding authors)<br />
+[Project Page](https://codi-2.github.io/)
+
+* [Any-to-Any Generation via Composable Diffusion](https://openreview.net/forum?id=2EDqbSCnmF) <br />
 Zineng Tang, **Ziyi Yang**\*, Chenguang Zhu, Michael Zeng, Mohit Bansal\* <br />
+Thirty-seventh Conference on Neural Information Processing Systems, (**NeurIPS**), New Orleans, USA, 2023. <br />
 (\*: Corresponding authors)<br />
 [Project Page](https://codi-gen.github.io/)
 

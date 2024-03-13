@@ -7,11 +7,18 @@ author_profile: true
 
 You can also find my publications on [Google Scholar](https://scholar.google.com/citations?user=JkyLIM0AAAAJ&hl=en).
 
+Year 2024
+* [i-Code V2: An Autoregressive Generation Framework over Vision, Language, and Speech Data](https://arxiv.org/abs/2305.12311) <br />
+**Ziyi Yang**, Mahmoud Khademi, Yichong Xu, Reid Pryzant, Yuwei Fang, Chenguang Zhu, Dongdong Chen, Yao Qian, Mei Gao, Yi-Ling Chen, Robert Gmyr, Naoyuki Kanda, Noel Codella, Bin Xiao, Yu Shi, Lu Yuan, Takuya Yoshioka, Michael Zeng, Xuedong Huang <br />
+NAACL Findings
+[Project Page](https://github.com/microsoft/i-Code)
+
 Year 2023
 * [CoDi-2: In-Context, Interleaved, and Interactive
 Any-to-Any Generation](https://arxiv.org/abs/2311.18775) <br />
 Zineng Tang, **Ziyi Yang**\*, Mahmoud Khademi, Yang Liu, Chenguang Zhu, Mohit Bansal\* <br />
 (\*: Corresponding authors)<br />
+**Highlight**, Conference on Computer Vision and Pattern Recognition (**CVPR**), Vancouver, Seattle, 2024.
 [Project Page](https://codi-2.github.io/)
 
 * [Any-to-Any Generation via Composable Diffusion](https://openreview.net/forum?id=2EDqbSCnmF) <br />
@@ -20,9 +27,6 @@ Thirty-seventh Conference on Neural Information Processing Systems, (**NeurIPS**
 (\*: Corresponding authors)<br />
 [Project Page](https://codi-gen.github.io/)
 
-* [i-Code V2: An Autoregressive Generation Framework over Vision, Language, and Speech Data](https://arxiv.org/abs/2305.12311) <br />
-**Ziyi Yang**, Mahmoud Khademi, Yichong Xu, Reid Pryzant, Yuwei Fang, Chenguang Zhu, Dongdong Chen, Yao Qian, Mei Gao, Yi-Ling Chen, Robert Gmyr, Naoyuki Kanda, Noel Codella, Bin Xiao, Yu Shi, Lu Yuan, Takuya Yoshioka, Michael Zeng, Xuedong Huang <br />
-[Project Page](https://github.com/microsoft/i-Code)
 
 * [i-Code Studio: A Configurable and Composable Framework for Integrative AI](https://arxiv.org/abs/2305.13738) <br />
 Yuwei Fang, Mahmoud Khademi, Chenguang Zhu, **Ziyi Yang**, Reid Pryzant, Yichong Xu, Yao Qian, Takuya Yoshioka, Lu Yuan, Michael Zeng, Xuedong Huang <br />

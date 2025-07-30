@@ -7,11 +7,11 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Ziyi Yang is a Principal Researcher at [Microsoft Azure Cognitive Services Research](https://www.microsoft.com/en-us/research/group/cognitive-services-research/). He works on multimodal understanding, multimodal generation, document intelligence and natural language processing. Prior to joining Microsoft, Ziyi obtained his Ph.D. from Stanford University, advised by Prof. Eric Darve.
+Ziyi Yang is a Staff Research Scientist at Databricks MosaicML. Previously he headed post-training of [Phi-3](https://huggingface.co/collections/microsoft/phi-3-6626e15e9585a200d2d761e3) and [Phi-4](https://huggingface.co/collections/microsoft/phi-4-677e9380e514feb5577a40e4) at Microsoft GenAI. He  specializes in LLM post-training & data curation, multimodal, document intelligence. Ziyi obtained his Ph.D. from Stanford University, advised by Prof. Eric Darve.
 
-Email: A@B, where A=ziyiyang and B is @microsoft.com
+Email: A@B, where A=yangziyi99 and B is @gmail.com
 
-News
+<!-- News
 ======
 * 2023 June: Proud to release [CoDi](https://codi-gen.github.io/), any-to-any generation model!
 * 2023 May: two papers accepted to ACL.
@@ -20,4 +20,4 @@ News
 * 2023 Feb: One paper accepted to TACL.
 * 2023 Jan: One paper accepted to ICASSP 2023.
 * 2022 Nov: i-Code [paper](https://arxiv.org/abs/2205.01818) accepted to AAAI 2023.
-* 2022 Nov: Achieve 1st place on [Document Understand Benchmark](https://duebenchmark.com/leaderboard).
+* 2022 Nov: Achieve 1st place on [Document Understand Benchmark](https://duebenchmark.com/leaderboard). -->

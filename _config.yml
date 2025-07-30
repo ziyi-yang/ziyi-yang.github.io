@@ -82,10 +82,10 @@ analytics:
 author:
   name             : "Ziyi Yang"
   avatar           : "Ziyi_square.jpg"
-  bio              : "Principal Researcher @Microsoft, Stanford Ph.D."
+  bio              : "Staff Research Scientist @Databricks, Stanford Ph.D."
   googlescholar    : "https://scholar.google.com/citations?user=JkyLIM0AAAAJ&hl=en"
   github           : "ziyi-yang"
-  twitter          : "yzy_ai"
+  X          : "yzy_ai"
 
 
 # Reading Files

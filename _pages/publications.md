@@ -7,26 +7,64 @@ author_profile: true
 
 You can also find my publications on [Google Scholar](https://scholar.google.com/citations?user=JkyLIM0AAAAJ&hl=en).
 
-Year 2023
+Year 2025
+* [Phi-4-mini technical report: Compact yet powerful multimodal language models via mixture-of-loras](https://arxiv.org/abs/2503.01743) <br />
+Lead of post-training <br />
+
+* [Scaling laws of synthetic data for language models](https://arxiv.org/abs/2503.19551) <br />
+Zeyu Qin, Qingxiu Dong, Xingxing Zhang, Li Dong, Xiaolong Huang, **Ziyi Yang**, Mahmoud Khademi, Dongdong Zhang, Hany Hassan Awadalla, Yi R. Fung, Weizhu Chen, Minhao Cheng, Furu Wei <br />
+COLM 2025 <br />
+
+* [A clinically accessible small multimodal radiology model and evaluation metric for chest X-ray findings](https://www.nature.com/articles/s41467-025-58344-x) <br />
+Juan Manuel Zambrano Chaves, Shih-Cheng Huang, Yanbo Xu, Hanwen Xu, Naoto Usuyama, Sheng Zhang, Fei Wang, Yujia Xie, Mahmoud Khademi, **Ziyi Yang** et al. <br />
+Nature Communications <br />
+
+Year 2024
+
+* [Segmenting text and learning their rewards for improved rlhf in language model](https://arxiv.org/pdf/2501.02790) <br />
+Yueqin Yin, Shentao Yang, Yujia Xie, **Ziyi Yang**, Yuting Sun, Hany Awadalla, Weizhu Chen, Mingyuan Zhou <br />
+
+* [See what llms cannot answer: A self-challenge framework for uncovering llm weaknesses](https://openreview.net/forum?id=18iNTRPx8c) <br />
+Yulong Chen, Yang Liu, Jianhao Yan, Xuefeng Bai, Ming Zhong, Yinghao Yang, **Ziyi Yang**, Chenguang Zhu, Yue Zhang <br />
+COLM 2024
+
+* [Phi-3 safety post-training: Aligning language models with a" break-fix" cycle](https://arxiv.org/abs/2407.13833) <br />
+
+* [Self-exploring language models: Active preference elicitation for online alignment](https://openreview.net/forum?id=FoQK84nwY3) <br />
+Shenao Zhang, Donghan Yu, Hiteshi Sharma, Han Zhong, Zhihan Liu, **Ziyi Yang**, Shuohang Wang, Hany Hassan Awadalla, Zhaoran Wang<br />
+TMLR 2024
+
+* [Phi-3 technical report: A highly capable language model locally on your phone](https://arxiv.org/abs/2404.14219) <br />
+Lead of post-training<br />
+
 * [CoDi-2: In-Context, Interleaved, and Interactive
 Any-to-Any Generation](https://arxiv.org/abs/2311.18775) <br />
 Zineng Tang, **Ziyi Yang**\*, Mahmoud Khademi, Yang Liu, Chenguang Zhu, Mohit Bansal\* <br />
-(\*: Corresponding authors)<br />
-[Project Page](https://codi-2.github.io/)
+(\*: Corresponding authors & internship mentors)<br />
+[Project Page](https://codi-2.github.io/)<br />
+CVPR highlight, 2024
+
+Year 2023
 
 * [Any-to-Any Generation via Composable Diffusion](https://openreview.net/forum?id=2EDqbSCnmF) <br />
 Zineng Tang, **Ziyi Yang**\*, Chenguang Zhu, Michael Zeng, Mohit Bansal\* <br />
 Thirty-seventh Conference on Neural Information Processing Systems, (**NeurIPS**), New Orleans, USA, 2023. <br />
-(\*: Corresponding authors)<br />
+(\*: Corresponding authors & internship mentors)<br />
 [Project Page](https://codi-gen.github.io/)
+
+* [MM-reasoner: A multi-modal knowledge-aware framework for knowledge-based visual question answering](https://aclanthology.org/2023.findings-emnlp.437.pdf) <br />
+Mahmoud Khademi, **Ziyi Yang**, Felipe Vieira Frujeri, Chenguang Zhu <br />
+Findings of EMNLP, 2023
 
 * [i-Code V2: An Autoregressive Generation Framework over Vision, Language, and Speech Data](https://arxiv.org/abs/2305.12311) <br />
 **Ziyi Yang**, Mahmoud Khademi, Yichong Xu, Reid Pryzant, Yuwei Fang, Chenguang Zhu, Dongdong Chen, Yao Qian, Mei Gao, Yi-Ling Chen, Robert Gmyr, Naoyuki Kanda, Noel Codella, Bin Xiao, Yu Shi, Lu Yuan, Takuya Yoshioka, Michael Zeng, Xuedong Huang <br />
 [Project Page](https://github.com/microsoft/i-Code)
+Findings of NAACL, 2024<br />
 
 * [i-Code Studio: A Configurable and Composable Framework for Integrative AI](https://arxiv.org/abs/2305.13738) <br />
 Yuwei Fang, Mahmoud Khademi, Chenguang Zhu, **Ziyi Yang**, Reid Pryzant, Yichong Xu, Yao Qian, Takuya Yoshioka, Lu Yuan, Michael Zeng, Xuedong Huang <br />
 [Project Page](https://github.com/microsoft/i-Code)
+EMNLP Demo, 2024<br />
 
 * [Adaptive Pre-training of Language Models for Better Logical Reasoning](https://openreview.net/forum?id=SWlp1gdlmd)<br />
 Soumya Sanyal, Yichong Xu, Shuohang Wang, **Ziyi Yang**, Reid Pryzant, Wenhao Yu, Chenguang Zhu, Xiang Ren <br />
@@ -43,7 +81,7 @@ The Fortieth International Conference on Machine Learning (**ICML**), Hawaii, US
 * [Unifying Vision, Text, and Layout for Universal Document Processing](https://arxiv.org/abs/2212.02623)<br />
 Zineng Tang, **Ziyi Yang**\*, Guoxin Wang, Yuwei Fang, Yang Liu, Chenguang Zhu, Michael Zeng, Cha Zhang, Mohit Bansal\*<br />
 **Highlight**, Conference on Computer Vision and Pattern Recognition (**CVPR**), Vancouver, Canada, 2023.<br />
-(\*: Corresponding authors)<br />
+(\*: Corresponding authors & internship mentors)<br />
 [Code & Model](https://github.com/microsoft/i-code)
 
 * [Anomaly Detection with Domain Adaptation](https://openaccess.thecvf.com/content/CVPR2023W/VAND/html/Yang_Anomaly_Detection_With_Domain_Adaptation_CVPRW_2023_paper.html) <br />

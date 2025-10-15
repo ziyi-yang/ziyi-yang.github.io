@@ -9,7 +9,7 @@ redirect_from:
 ---
 Ziyi Yang is a Staff Research Scientist at Databricks MosaicML. Previously he headed post-training of [Phi-3](https://huggingface.co/collections/microsoft/phi-3-6626e15e9585a200d2d761e3) and [Phi-4](https://huggingface.co/collections/microsoft/phi-4-677e9380e514feb5577a40e4) at Microsoft GenAI. He  specializes in LLM post-training & data curation, multimodal, document intelligence. Ziyi obtained his Ph.D. from Stanford University, advised by Prof. Eric Darve.
 
-**[Curriculum Vitae]({{ site.url }}/assets/Ziyi_Yang_CV_2508.pdf){: .btn .btn--primary}**
+**[Curriculum Vitae]({{ site.url }}/assets/Ziyi_Yang_CV_2510.pdf){: .btn .btn--primary}**
 
 Email: A@B, where A=yangziyi99 and B is @gmail.com
 
